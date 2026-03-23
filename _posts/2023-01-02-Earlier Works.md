@@ -3,6 +3,7 @@ layout: post
 title:  "Earlier Works"
 date:   2023-01-02 17:25:54 +0800
 categories: earlier
+tags: [IEEE TMM, JAMA Netw. Open, IJMLC, IEEE Sens. J]
 ---
 
 [A Robust Frequency-Domain-Based Graph Adaptive Network for Parkinson's Disease Detection From Gait Data](https://ieeexplore.ieee.org/abstract/document/9930650) 2022-10-26
