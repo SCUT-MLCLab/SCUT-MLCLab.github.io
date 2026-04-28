@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coming Soon"
+title:  "AI Framework for Multidisease Detection via Retinal Imaging"
 date:   2026-04-28 18:00:00 +0800
 categories: eye
 tags: [Nature Medicine, Fundus, Multidisease]
